@@ -1,2 +1,2 @@
 # 42_ft_printf
-Recode most functionality of a the printf function
+Recode most functionality of C Language printf function
